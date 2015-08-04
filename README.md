@@ -104,10 +104,8 @@ General reserved username list.
 ### Asset
 
 * css
-* image
-* images
-* img
-* imgs
+* image(s)
+* img(s)
 
 ### Attribute
 
@@ -125,21 +123,20 @@ General reserved username list.
 | null     | PHP             |
 | true     | PHP,Python,Ruby |
 
-### HTTP Method
+### HTTP
 
 http://www.w3.org/Protocols/rfc2616/rfc2616-sec9.html
 
-| Username | References |
-|----------|------------|
-| connect  | CONNECT    |
-| delete   | DELETE     |
-| get      | GET        |
-| head     | HEAD       |
-| option   |            |
-| options  | OPTIONS    |
-| post     | POST       |
-| put      | PUT        |
-| trace    | TRACE      |
+* connect
+* delete
+* get
+* head
+* http
+* https
+* option(s)
+* post
+* put
+* trace
 
 ### UNIX
 
@@ -160,7 +157,6 @@ http://www.w3.org/Protocols/rfc2616/rfc2616-sec9.html
 | github    | GitHub     |
 | google    | Google     |
 | twitter   | Twitter    |
-| wordpress | WordPress  |
 | yahoo     | Yahoo      |
 
 ## TODO

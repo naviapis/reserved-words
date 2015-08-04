@@ -1,0 +1,5 @@
+false
+nil
+none
+null
+true

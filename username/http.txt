@@ -1,0 +1,11 @@
+connect
+delete
+get
+head
+http
+https
+option
+options
+post
+put
+trace

@@ -1,0 +1,6 @@
+apple
+facebook
+github
+google
+twitter
+yahoo
